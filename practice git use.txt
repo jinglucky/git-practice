@@ -1,0 +1,10 @@
+练习使用Git
+Git指令
+git clone
+git status
+git log
+git add
+git commit
+git push
+git pull
+git merge
